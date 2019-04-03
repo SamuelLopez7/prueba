@@ -5,6 +5,7 @@ public class sistema {
 	public static void main(String args [])
 	{
 		int u=9;
+		int y=8;
 		
 	}
 
