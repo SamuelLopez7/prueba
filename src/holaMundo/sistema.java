@@ -1,5 +1,11 @@
 package holaMundo;
 
 public class sistema {
+	
+	public static void main(String args [])
+	{
+		int u=9;
+		
+	}
 
 }
